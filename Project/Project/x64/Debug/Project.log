@@ -1,3 +1,2 @@
-﻿  17087.c
-C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\17087.c(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\17087.c(11,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  1920.c
+  Project.vcxproj -> C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\x64\Debug\Project.exe
