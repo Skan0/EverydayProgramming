@@ -1,2 +1,10 @@
-﻿  25083.c
+﻿  2941.c
+C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\2941.c(9,23): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\2941.c(9,28): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\2941.c(9,33): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\2941.c(9,39): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\2941.c(9,44): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\2941.c(9,49): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\2941.c(9,54): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\2941.c(9,59): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
   Project.vcxproj -> C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\x64\Debug\Project.exe
