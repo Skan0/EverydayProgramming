@@ -1,13 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sytwj\\Desktop\\EverydayProgramming\\Project\\",
+  "WorkspaceRootPath": "C:\\Users\\sytwj\\OneDrive\\Desktop\\MAILMAIL\\EverydayProgramming\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9A63AE3-B043-42E0-A6A6-7921DC5E16A9}|Project\\Project.vcxproj|C:\\Users\\sytwj\\Desktop\\EverydayProgramming\\Project\\Project\\1259.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F9A63AE3-B043-42E0-A6A6-7921DC5E16A9}|Project\\Project.vcxproj|solutionrelative:Project\\1259.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F9A63AE3-B043-42E0-A6A6-7921DC5E16A9}|Project\\Project.vcxproj|C:\\Users\\sytwj\\OneDrive\\Desktop\\MAILMAIL\\EverydayProgramming\\Project\\Project\\2444.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9A63AE3-B043-42E0-A6A6-7921DC5E16A9}|Project\\Project.vcxproj|solutionrelative:Project\\2444.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "1259.c",
-              "DocumentMoniker": "C:\\Users\\sytwj\\Desktop\\EverydayProgramming\\Project\\Project\\1259.c",
-              "RelativeDocumentMoniker": "Project\\1259.c",
-              "ToolTip": "C:\\Users\\sytwj\\Desktop\\EverydayProgramming\\Project\\Project\\1259.c",
-              "RelativeToolTip": "Project\\1259.c",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAEAAAA",
+              "Title": "2444.c",
+              "DocumentMoniker": "C:\\Users\\sytwj\\OneDrive\\Desktop\\MAILMAIL\\EverydayProgramming\\Project\\Project\\2444.c",
+              "RelativeDocumentMoniker": "Project\\2444.c",
+              "ToolTip": "C:\\Users\\sytwj\\OneDrive\\Desktop\\MAILMAIL\\EverydayProgramming\\Project\\Project\\2444.c",
+              "RelativeToolTip": "Project\\2444.c",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-25T07:36:01.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "stdio.h",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "ViewState": "AQIAAHwCAAAAAAAAAAAawIUCAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-22T07:41:43.613Z",
+              "WhenOpened": "2024-04-27T06:44:38.738Z",
               "EditorCaption": ""
             }
           ]
