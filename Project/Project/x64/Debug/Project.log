@@ -1,10 +1,2 @@
-﻿  25206.c
-C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\25206.c(10,11): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
-  C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\25206.c(10,11):
-  이 인수는 버퍼 크기로 사용됩니다.
-  
-C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\25206.c(12,11): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
-  C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\25206.c(12,11):
-  이 인수는 버퍼 크기로 사용됩니다.
-  
+﻿  2738.c
   Project.vcxproj -> C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\x64\Debug\Project.exe
