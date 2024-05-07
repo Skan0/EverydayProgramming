@@ -1,14 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sytwj\\Desktop\\EverydayProgramming\\Project\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\sytwj\\OneDrive\\Desktop\\MAILMAIL\\EverydayProgramming\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A63AE3-B043-42E0-A6A6-7921DC5E16A9}|Project\\Project.vcxproj|C:\\Users\\sytwj\\OneDrive\\Desktop\\MAILMAIL\\EverydayProgramming\\Project\\Project\\1018.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9A63AE3-B043-42E0-A6A6-7921DC5E16A9}|Project\\Project.vcxproj|solutionrelative:Project\\1018.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-<<<<<<< Updated upstream
-      "DocumentGroups": []
-=======
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -17,32 +19,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "1010.c",
-              "DocumentMoniker": "C:\\Users\\sytwj\\OneDrive\\Desktop\\MAILMAIL\\EverydayProgramming\\Project\\Project\\1010.c",
-              "RelativeDocumentMoniker": "Project\\1010.c",
-              "ToolTip": "C:\\Users\\sytwj\\OneDrive\\Desktop\\MAILMAIL\\EverydayProgramming\\Project\\Project\\1010.c",
-              "RelativeToolTip": "Project\\1010.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Title": "1018.c",
+              "DocumentMoniker": "C:\\Users\\sytwj\\OneDrive\\Desktop\\MAILMAIL\\EverydayProgramming\\Project\\Project\\1018.c",
+              "RelativeDocumentMoniker": "Project\\1018.c",
+              "ToolTip": "C:\\Users\\sytwj\\OneDrive\\Desktop\\MAILMAIL\\EverydayProgramming\\Project\\Project\\1018.c",
+              "RelativeToolTip": "Project\\1018.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-01T06:32:03.859Z",
+              "WhenOpened": "2024-05-07T08:28:46.897Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "stdio.h",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "ViewState": "AQIAAD0EAAAAAAAAAIAxwEoEAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-29T11:13:37.968Z"
             }
           ]
         }
       ]
->>>>>>> Stashed changes
     }
   ]
 }
