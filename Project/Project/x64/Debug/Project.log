@@ -1,4 +1,4 @@
-﻿  1024.c
-C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\1024.c(26,24): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\1024.c(27,12): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  1026.c
+C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\1026.c(20,35): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\1026.c(20,27): warning C4113: 'int (__cdecl *)(int *,int *)'은(는) '_CoreCrtNonSecureSearchSortCompareFunction'과(와) 매개 변수 목록이 다릅니다.
   Project.vcxproj -> C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\x64\Debug\Project.exe
