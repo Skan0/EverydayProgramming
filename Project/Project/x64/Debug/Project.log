@@ -1,2 +1,3 @@
-﻿  1094.c
+﻿  1009.c
+C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\Project\1009.c(8,6): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
   Project.vcxproj -> C:\Users\sytwj\OneDrive\Desktop\MAILMAIL\EverydayProgramming\Project\x64\Debug\Project.exe
