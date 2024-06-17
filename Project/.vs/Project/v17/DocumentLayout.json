@@ -3,8 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\sytwj\\OneDrive\\Desktop\\MAILMAIL\\EverydayProgramming\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9A63AE3-B043-42E0-A6A6-7921DC5E16A9}|Project\\Project.vcxproj|C:\\Users\\sytwj\\OneDrive\\Desktop\\MAILMAIL\\EverydayProgramming\\Project\\Project\\1009.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F9A63AE3-B043-42E0-A6A6-7921DC5E16A9}|Project\\Project.vcxproj|solutionrelative:Project\\1009.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F9A63AE3-B043-42E0-A6A6-7921DC5E16A9}|Project\\Project.vcxproj|C:\\Users\\sytwj\\OneDrive\\Desktop\\MAILMAIL\\EverydayProgramming\\Project\\Project\\1105.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9A63AE3-B043-42E0-A6A6-7921DC5E16A9}|Project\\Project.vcxproj|solutionrelative:Project\\1105.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A63AE3-B043-42E0-A6A6-7921DC5E16A9}|Project\\Project.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\STDIO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +22,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "1009.c",
-              "DocumentMoniker": "C:\\Users\\sytwj\\OneDrive\\Desktop\\MAILMAIL\\EverydayProgramming\\Project\\Project\\1009.c",
-              "RelativeDocumentMoniker": "Project\\1009.c",
-              "ToolTip": "C:\\Users\\sytwj\\OneDrive\\Desktop\\MAILMAIL\\EverydayProgramming\\Project\\Project\\1009.c",
-              "RelativeToolTip": "Project\\1009.c",
-              "ViewState": "AQIAACoAAAAAAAAAAAAswEwAAAABAAAA",
+              "Title": "1105.c",
+              "DocumentMoniker": "C:\\Users\\sytwj\\OneDrive\\Desktop\\MAILMAIL\\EverydayProgramming\\Project\\Project\\1105.c",
+              "RelativeDocumentMoniker": "Project\\1105.c",
+              "ToolTip": "C:\\Users\\sytwj\\OneDrive\\Desktop\\MAILMAIL\\EverydayProgramming\\Project\\Project\\1105.c",
+              "RelativeToolTip": "Project\\1105.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-14T01:55:17.679Z",
+              "WhenOpened": "2024-06-17T09:46:14.746Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ViewState": "AQIAAHkCAAAAAAAAAAAywIUCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-17T10:22:22.785Z",
               "EditorCaption": ""
             }
           ]
